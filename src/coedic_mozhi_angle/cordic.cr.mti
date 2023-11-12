@@ -1,0 +1,15 @@
+E:/project/dds/src/coedic_mozhi_angle/cordic_tb.v {1 {vlog -work work -vopt E:/project/dds/src/coedic_mozhi_angle/cordic_tb.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module cordic_tb
+
+Top level modules:
+	cordic_tb
+
+} {} {}} E:/project/dds/src/coedic_mozhi_angle/cordic.v {1 {vlog -work work -vopt E:/project/dds/src/coedic_mozhi_angle/cordic.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module cordic
+
+Top level modules:
+	cordic
+
+} {} {}}

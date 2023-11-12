@@ -1,0 +1,41 @@
+m255
+K3
+13
+cModel Technology
+dE:\project\dds\src\PqxCordic
+vcordic
+V:@M1F_lFgO?9Pm3jhfK`@3
+r1
+!s85 0
+31
+I_=[0YOZ@<8BfgGjMFM1VH3
+Z0 dE:\project\dds\src\coedic_mozhi_angle
+w1696307313
+8E:/project/dds/src/coedic_mozhi_angle/cordic.v
+FE:/project/dds/src/coedic_mozhi_angle/cordic.v
+L0 9
+Z1 OL;L;10.1c;51
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 A>ZdC05GVif7b4R`M;o701
+!s90 -reportprogress|300|-work|work|-vopt|E:/project/dds/src/coedic_mozhi_angle/cordic.v|
+!s108 1696309124.584000
+!s107 E:/project/dds/src/coedic_mozhi_angle/cordic.v|
+!i10b 1
+vcordic_tb
+V[H_iV_i4RAMR2oPm@gd_f3
+r1
+31
+I_W]DjI7VjzZGFWh[a;KO21
+Z3 dE:\project\dds\src\coedic_mozhi_angle
+w1696309122
+8E:/project/dds/src/coedic_mozhi_angle/cordic_tb.v
+FE:/project/dds/src/coedic_mozhi_angle/cordic_tb.v
+L0 3
+R1
+R2
+!s85 0
+!s90 -reportprogress|300|-work|work|-vopt|E:/project/dds/src/coedic_mozhi_angle/cordic_tb.v|
+!i10b 1
+!s100 ah?FRaFb6z?7XmLKbzgh73
+!s108 1696309124.652000
+!s107 E:/project/dds/src/coedic_mozhi_angle/cordic_tb.v|

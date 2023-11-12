@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Cordic_Config>
+    <GeneralConfig>
+        <Type>EG_LOGIC_CORDIC</Type>
+        <Device>EG4S20BG256</Device>
+        <create_VHDL>false</create_VHDL>
+        <inst>cordic</inst>
+        <Functional_Selection>rotate</Functional_Selection>
+        <Architectural_Configuration>Serial</Architectural_Configuration>
+        <Phase_Format>Radians</Phase_Format>
+        <Compensation_Scaling>LUT</Compensation_Scaling>
+        <Iterations>16</Iterations>
+        <Precision>16</Precision>
+    </GeneralConfig>
+    <GeneratedFiles>
+        <GateVerilog Enable="true">cor_gate.v</GateVerilog>
+    </GeneratedFiles>
+</Cordic_Config>

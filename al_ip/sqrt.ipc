@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Cordic_Config>
+    <GeneralConfig>
+        <Type>EG_LOGIC_CORDIC</Type>
+        <Device>EG4S20BG256</Device>
+        <create_VHDL>false</create_VHDL>
+        <inst>sqrt</inst>
+        <Functional_Selection>sqrt</Functional_Selection>
+        <Architectural_Configuration>Pipeline</Architectural_Configuration>
+        <Phase_Format>Radians</Phase_Format>
+        <Compensation_Scaling>No Compensation</Compensation_Scaling>
+        <Iterations>16</Iterations>
+        <Precision>32</Precision>
+    </GeneralConfig>
+    <GeneratedFiles>
+        <GateVerilog Enable="true">sqrt_gate.v</GateVerilog>
+    </GeneratedFiles>
+</Cordic_Config>

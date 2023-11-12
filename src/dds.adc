@@ -1,0 +1,11 @@
+set_pin_assignment	{ data[0] }	{ LOCATION = L7; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ data[1] }	{ LOCATION = M7; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ data[2] }	{ LOCATION = T14; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ data[3] }	{ LOCATION = R14; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ data[4] }	{ LOCATION = T15; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ data[5] }	{ LOCATION = R15; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ data[6] }	{ LOCATION = P7; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ data[7] }	{ LOCATION = L8; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ clk_out1 } { LOCATION = P8; IOSTANDARD = LVCMOS25; DRIVESTRENGTH = 8; PULLTYPE = NONE; }
+set_pin_assignment	{ clk }	{ LOCATION = R7; IOSTANDARD = LVCMOS25; PULLTYPE = PULLUP; }
+set_pin_assignment	{ rstn }	{ LOCATION = A9; IOSTANDARD = LVCMOS25; PULLTYPE = PULLUP; }
